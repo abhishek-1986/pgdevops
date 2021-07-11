@@ -1,3 +1,7 @@
 this is a  yellow
 
+<<<<<<< HEAD
 This is a change in Lab
+=======
+This a change in GIT hub
+>>>>>>> 42cbd35dbe9fee4c3fa7bd98d2a08d8a51d8365b
